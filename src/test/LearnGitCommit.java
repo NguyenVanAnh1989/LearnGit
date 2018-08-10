@@ -6,4 +6,7 @@ public class LearnGitCommit {
 	// commit my rebase
 	// commit my rebase 2
 	// this master commit
+	public void functionOne() {
+		
+	}
 }
