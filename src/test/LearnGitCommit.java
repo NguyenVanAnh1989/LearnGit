@@ -9,4 +9,7 @@ public class LearnGitCommit {
 	public void functionOne() {
 		
 	}
+	public void functionTwo() {
+		
+	}
 }
