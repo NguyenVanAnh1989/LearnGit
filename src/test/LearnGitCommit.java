@@ -7,12 +7,18 @@ public class LearnGitCommit {
 	// commit my rebase 2
 	// this master commit
 	public void functionOne() {
-		
+
 	}
+
 	public void functionTwo() {
-		
+
 	}
+
 	public void functionThree() {
-		
+
+	}
+
+	public void functionFour() {
+
 	}
 }
